@@ -1,4 +1,4 @@
-Hi! I'm Gabrielly Gonçalves :)
+<h1>Hi! I'm Gabrielly Gonçalves :)</h1>
 
 I currently work as a Development Support, focusing on Front-end and website development. I'm immersed in the study of Next.js and have knowledge of MySQL, HTML5, CSS3, React and JavaScript.
 

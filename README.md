@@ -1,6 +1,6 @@
 <h1>Hi! I'm Gabrielly Gonçalves :)</h1>
 
-I currently work as a Development Support, focusing on Front-end and website development. I'm immersed in the study of Next.js and have knowledge of MySQL, HTML5, CSS3, React and JavaScript.
+I currently work as a Development Support, focusing on Front-end and website development. I'm immersed in the study of Flutter and TypeScript.
 
 During high school, I had the opportunity to study at a vocational school, where I studied Computer Technician, acquiring a solid foundation for my career in technology. Later, I graduated in Systems Analysis and Development from Estácio de Sá University. I'm currently starting my postgraduate degree in Software Engineering with DevOps at Unifor, in Fortaleza, CE.
 

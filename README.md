@@ -1,8 +1,12 @@
-<h1>Hi! I'm Gabrielly Gonçalves :)</h1>
+<h1>Oi! Eu sou a Gaby :)</h1>
 
-I currently work as a Development Support, focusing on Front-end and website development. I'm immersed in the study of Flutter and TypeScript.
+Sou apaixonada por tecnologia e atualmente atuo na área de desenvolvimento Front-end, com foco em oferecer soluções eficientes e experiências digitais de qualidade. Tenho conhecimentos em linguagens e tecnologias como HTML5, CSS3, JavaScript, TypeScript, React e MySQL, que utilizo para criar interfaces modernas, acessíveis e funcionais.
 
-During high school, I had the opportunity to study at a vocational school, where I studied Computer Technician, acquiring a solid foundation for my career in technology. Later, I graduated in Systems Analysis and Development from Estácio de Sá University. I'm currently starting my postgraduate degree in Software Engineering with DevOps at Unifor, in Fortaleza, CE.
+Formada em Análise e Desenvolvimento de Sistemas, estou sempre em busca de evolução contínua, tanto técnica quanto pessoal. Atualmente, curso uma pós-graduação em Engenharia de Software com DevOps, o que tem ampliado minha visão sobre integração de processos, automação e entrega contínua de software.
+
+Também estou desenvolvendo minha fluência no inglês, atualmente com nível B2, o que me permite ler, escrever e me comunicar com mais autonomia em ambientes profissionais internacionais.
+
+Acredito no aprendizado constante, na colaboração e na construção de soluções que realmente façam a diferença no dia a dia das pessoas.
 
 
 <div style="display: inline_block"><br>
